@@ -1,1 +1,1 @@
-# AquasenseSchoolexhibtion
+# Aquasense School exhibtion
