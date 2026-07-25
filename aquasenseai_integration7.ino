@@ -4,11 +4,11 @@
 #include <HTTPClient.h>
 
 // Wi-Fi Credentials
-const char* ssid = "JioFiber-J9c3t_2-4";
-const char* password = "yoccO123";
+const char* ssid = "Wifiname";
+const char* password = "wifipassword";
 
 // Google Gemini API Key (Get free from https://aistudio.google.com/)
-const char* gemini_api_key = "AQ.Ab8RN6KPVzqxCY-QH1y6x2npHTA-iuqXcTnfh3htQXLG_Cz6mw"; 
+const char* gemini_api_key = "your google gemini api key"; 
 
 // Hardware Pin Definitions
 #define TDS_PIN 32
